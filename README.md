@@ -15,11 +15,9 @@
 ```javascript
 const sameep = {
   role: "Sophomore @ Siddaganga Institute of Technology",
-  location: "Tumakuru, India",
-  currentlyBuilding: "a banking application",
+  location: "Bengaluru, India",
   currentlyLearning: ["Remix.js"],
   languages: ["C", "C++", "JavaScript", "TypeScript"],
-  funFact: "deliberately breaks his own LeetCode solutions just to learn from the bugs",
 };
 ```
 
