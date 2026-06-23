@@ -17,7 +17,7 @@ const sameep = {
   role: "Sophomore @ Siddaganga Institute of Technology",
   location: "Tumakuru, India",
   currentlyBuilding: "a banking application",
-  currentlyLearning: ["advanced backend concepts", "Remix.js"],
+  currentlyLearning: ["Remix.js"],
   languages: ["C", "C++", "JavaScript", "TypeScript"],
   funFact: "deliberately breaks his own LeetCode solutions just to learn from the bugs",
 };
@@ -34,7 +34,7 @@ const sameep = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,express,nextjs,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,express,nextjs,postgres,mongodb,supabase,r,remix,vscode,nginx,vercel,netlify,git,&theme=dark" />
 
 </div>
 
