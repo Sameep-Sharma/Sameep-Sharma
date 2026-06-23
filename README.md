@@ -23,7 +23,6 @@ const sameep = {
 };
 ```
 
-- 🏦 Currently working on a **banking application** while going deep on advanced backend concepts
 - 🧭 Exploring **Remix.js** on the side
 - 🧩 Solid foundation in **C / C++**, with a soft spot for competitive programming
 - 💬 Ask me about React, Node.js, Express, or backend system design
@@ -91,9 +90,7 @@ const sameep = {
 <a href="mailto:sameep.1si24is088@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+
 
 </div>
 
