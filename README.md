@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9D4EDD&height=180&section=header&text=Sameep%20Sharma&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Systems%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=16&descColor=C0CAF5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9D4EDD&height=180&section=header&text=Sameep%20Sharma&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20Systems%2C%20&descAlignY=58&descSize=16&descColor=C0CAF5" width="100%"/>
 
 <a href="https://github.com/Sameep-Sharma">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=Sophomore%20%40%20SIT%20Tumakuru;Backend%20Tinkerer%20%26%20Systems%20Enthusiast;Building%20a%20Banking%20App;Exploring%20Remix.js;Competitive%20Programmer%20in%20C%2B%2B" alt="Typing SVG" />
