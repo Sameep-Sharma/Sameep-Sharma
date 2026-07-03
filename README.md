@@ -1,6 +1,4 @@
 
-<br/>
-
 ### 🚀 About Me
 
 ```javascript
@@ -75,7 +73,5 @@ const sameep = {
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Sameep-Sharma&label=Profile%20Views&color=9d4edd&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9D4EDD,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
