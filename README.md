@@ -3,21 +3,21 @@
 
 ```javascript
 const sameep = {
-  role: "Sophomore @ Siddaganga Institute of Technology",
+  role: "Penultimate @ Siddaganga Institute of Technology",
   location: "Bengaluru, India",
   currentlyLearning: ["Remix.js"],
   languages: ["C", "C++", "JavaScript", "TypeScript"],
 };
 ```
 
-- 🧭 Exploring **Remix.js** on the side
-- 🧩 Solid foundation in **C / C++**, with a soft spot for competitive programming
-- 💬 Ask me about React, Node.js, Express, or backend system design
-- 📫 Reach me at **sameep.1si24is088@gmail.com**
+-  Exploring **Remix.js** on the side
+-  Solid foundation in **C / C++**, with a soft spot for competitive programming
+-  Ask me about React, Node.js, Express, or backend system design
+-  Reach me at **sameep.1si24is088@gmail.com**
 
 <br/>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -30,9 +30,6 @@ const sameep = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sameep-Sharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameep-Sharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameep-Sharma&theme=tokyonight&hide_border=true" width="60%" />
 
@@ -52,7 +49,7 @@ const sameep = {
 
 <br/>
 
-### 🤝 Connect with Me
+###  Connect with Me
 
 <div align="center">
 
